@@ -1,7 +1,11 @@
 import './App.css'
 
-function App() {
-  return <div>App</div>
+const App = () => {
+  return (
+    <div>
+      <h1>new project</h1>
+    </div>
+  )
 }
 
 export default App
