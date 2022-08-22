@@ -75,7 +75,7 @@ const menu = [
   
   img: './images/item-5.jpeg',
   
-  desc: 'Tibetan dumplings sautéed in onions and pepper',
+  desc: 'Pan fried Tibetan dumplings',
   
   },
   
@@ -210,7 +210,7 @@ const menu = [
   
   id: 14,
   
-  title: 'Shya Phalay',
+  title: 'Sha Phalay',
   
   category: 'Entree',
   
