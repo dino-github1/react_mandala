@@ -1,9 +1,10 @@
 import './App.css'
 
-import Menu from './Menu'
-import Categories from './Categories'
-import items from './data'
-import logo from './logo.jpg'
+import Menu from './components/Menu'
+import Categories from './components/Categories'
+import items from './components/data'
+import logo from './components/logo.jpg'
+import React, { useState } from 'react'
 
 const allCategories = ['all', ...new Set(items.map((item) => item.category))]
 
