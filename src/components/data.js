@@ -77,7 +77,7 @@ const menu = [
     category: 'Appetizers',
     price: 9.99,
     img: './images/item-10.jpeg',
-    desc: 'Potato crepes served with a spicy sauces, a staple diet of the sherpa people'
+    desc: 'Potato crepes served with a spicy ricotta sauce'
   },
   {
     id: 11,
@@ -101,7 +101,7 @@ const menu = [
     category: 'Entree',
     price: 18.99,
     img: './images/item-13.jpeg',
-    desc: 'Traditional Tibetan style hand-pulled noodle soup with beef, radish and spinach'
+    desc: 'Traditional style hand-pulled noodle soup with beef, radish and spinach'
   },
   {
     id: 14,
