@@ -109,7 +109,7 @@ const menu = [
     category: 'Entree',
     price: 18.99,
     img: './images/item-16.jpeg',
-    desc: 'A Traditional stir-fried beef tossed with ginger herb and fresh red chili'
+    desc: 'Stir-fried beef tossed with ginger herb and fresh red chili'
   },
   {
     id: 15,
