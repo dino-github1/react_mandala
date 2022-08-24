@@ -30,7 +30,11 @@ const App = () => {
           <h2>Menu List</h2>
           <div className="underline"></div>
         </div>
-        <Categories categories={categories} activeCategory={activeCategory} />
+        <Categories
+          categories={categories}
+          activeCategory={activeCategory}
+          filterItems={filterItems}
+        />
         <Menu items={menuItems} />
       </section>
     </main>
