@@ -28,3 +28,18 @@
   color: #61dafb;
 }
 
+.form {
+  background: #fff;
+  max-width: 450px;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  padding: 1rem 2rem;
+  border-radius: 0.25rem;
+}
+
+.form input {
+  background: hsl(210, 36%, 96%);
+  border-color: transparent;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+}
